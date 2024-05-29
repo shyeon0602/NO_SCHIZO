@@ -9,6 +9,18 @@
 ***
 <br>
 
+<span style="font-size: 18px; font-weight: bold; color: navy; background-color: white; border-radius: 5px;">NO SCHIZO</span>는 조현병의 사후관리 과정을 보다 쉽게 확인하고 진행척도를 확인할 수 있도록 하는 프로그램입니다!
+
+환자들은 약물 복용 여부와 증상 발현 정도를 <span style="font-size: 18px; font-weight: bold; color: navy; background-color: white; border-radius: 5px;">NO SCHIZO</span>에서 체크하며 지역사회에 자가진단 경과를 보여줄 수 있습니다. 환자들의 회복기(잔류기)에 사후관리를 도와주고 치료 진행 현황을 확인할 수 있게 도와줍니다.
+
+한편 지역사회 정신건강 의료진들은 직접 환자에게 전화를 하지않고도 매일 환자의 상태를 확인하고 외래진료 시 치료에 보다 효과적인 도움을 줄 수 있습니다.
+
+<br>
+
+***
+
+### 조현병이란?
+
 > 1. 원인
 
 조현병의 원인은 정확히 밝혀지지 않았으며, 생물학적 소인과 환경의 상호작용에 의해 발병된다고 추정됩니다.
@@ -61,13 +73,6 @@
 <br>
 
 ###### 출처: 서울아산병원
-
-***
-<br>
-
-그렇다면 <span style="font-size: 18px; font-weight: bold; color: navy; background-color: white; border-radius: 5px;">NO SCHIZO</span>는 어떤 프로그램일까요?
-
-<span style="font-size: 18px; font-weight: bold; color: navy; background-color: white; border-radius: 5px;">NO SCHIZO</span>를 통해 환자들의 회복기(잔류기)에 사후관리를 도와주고 치료 진행 현황을 확인할 수 있게 도와줍니다.<br>
 
 
 
