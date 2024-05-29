@@ -5,6 +5,7 @@
 }
 
 body {
+  /* header 높이만큼 padding 적용 -> header 고정 시, 콘텐츠 겹치는 경우 방지 */
   padding-top: 150px;
 }
 
@@ -19,9 +20,6 @@ header {
   margin-top: 0;
 }
 
-#logo {
-  width: fit-content;
-}
 #logo img {
   width: 300px;
   height: 100px;
@@ -45,6 +43,9 @@ nav li:last-child {
   width: 165px;
   font-size: 23px;
 }
+nav li:nth-child(3) {
+  width: 130px;
+}
 nav li a {
   text-decoration: none;
   color: black;
@@ -61,12 +62,6 @@ nav li a {
 #account_icon {
   margin: 0;
 }
-#account_icon img {
-  width: 80px;
-  height: 80px;
-  cursor: pointer;
-  margin: 0;
-}
 #account_icon button {
   border: none;
   outline: none;
@@ -74,20 +69,20 @@ nav li a {
   margin: 0;
   padding: 0;
 }
+#account_icon img {
+  width: 80px;
+  height: 80px;
+  cursor: pointer;
+  margin: 0;
+}
 
 .account_btn {
   display: flex;
-  gap: 10px;
+  gap: 5px;
   margin: 0;
+  padding-left: 15px;
 }
-.account_btn #login button {
-  border: none;
-  outline: none;
-  background-color: inherit;
-  cursor: pointer;
-  margin: 0;
-  padding: 0;
-}
+.account_btn #login button,
 .account_btn #join button {
   border: none;
   outline: none;
@@ -95,4 +90,6 @@ nav li a {
   cursor: pointer;
   margin: 0;
   padding: 0;
+  font-size: 18px;
+  font-weight: bold;
 }
