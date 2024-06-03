@@ -96,7 +96,15 @@ nav li a {
 }
 
 /* main */
-
+.banner_patient {
+  width: 1320px;
+  height: 532px;
+  overflow: hidden;
+  margin: 0 auto;
+}
+.banner_patient img {
+  box-sizing: border-box;
+}
 
 /* footer */
 footer {
